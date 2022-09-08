@@ -7,7 +7,7 @@
 </p>
 
 - 🔭 Current assignments: 
-  - [ ] [Zadanie 1 - Mendela](https://github.com/4ib1/mendela-zadanie1)
+  - [x] [Zadanie 1 - Mendela](https://github.com/4ib1/mendela-zadanie1)
 
 - 🌱 We are currently learning **JavaScript, PHP, Python, MySQL, C, C++**
 
